@@ -1,8 +1,6 @@
 # Passwor-generator
 I have developed a small password generating website using HTML, CSS, and JavaScript. The website is designed to help users generate strong and secure passwords for their various online accounts.   It includes a password generator section where users can customize the criteria for their desired password. 
 
-I have developed a small password generating website using HTML, CSS, and JavaScript. The website is designed to help users generate strong and secure passwords for their various online accounts.
-
 The homepage of the website provides a simple and user-friendly interface. It includes a password generator section where users can customize the criteria for their desired password. This customization may involve choosing the password length, including uppercase and lowercase letters, numbers, special characters, or even specific patterns.
 
 Once the user selects their desired criteria, they can click a "Generate Password" button, which triggers the JavaScript functionality behind the scenes. The JavaScript code generates a random password based on the specified criteria.
